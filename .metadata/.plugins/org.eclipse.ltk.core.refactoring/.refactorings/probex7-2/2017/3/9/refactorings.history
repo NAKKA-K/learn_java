@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ名 &apos;probleme7&apos; を &apos;problemex7&apos; に変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;probex7-2&apos;&#x0D;&#x0A;- オリジナル要素: &apos;probex7-2/src/probleme7&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;probex7-2/src/problemex7&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="パッケージ名 &apos;probleme7&apos; を変更します" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;probleme7" name="problemex7" qualified="false" references="true" stamp="1488593502572" textual="false" version="1.0"/>
+</session>

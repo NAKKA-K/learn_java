@@ -1,0 +1,3 @@
+Yes,I am.
+No,I don't.
+Can I play the game?
