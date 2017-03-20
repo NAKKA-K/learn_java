@@ -1,0 +1,14 @@
+package class6;
+
+public class ClassSample06 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		sample01();
+	}
+
+	public static void sample01(){
+		StrigBuffer buf = new StringBuffer("Apple ");
+
+	}
+}
