@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="class1/src"/>
+	<classpathentry kind="src" path="class2/src"/>
+	<classpathentry kind="src" path="class3/src"/>
+	<classpathentry kind="src" path="class4/src"/>
+	<classpathentry kind="src" path="class5/src"/>
+	<classpathentry kind="src" path="class6/src"/>
+	<classpathentry kind="src" path="probex2-1/src"/>
+	<classpathentry kind="src" path="probex2-2/src"/>
+	<classpathentry kind="src" path="probex3-1/src"/>
+	<classpathentry kind="src" path="probex3-2/src"/>
+	<classpathentry kind="src" path="probex4-1/src"/>
+	<classpathentry kind="src" path="probex5-1/src"/>
+	<classpathentry kind="src" path="probex5-3/src"/>
+	<classpathentry kind="src" path="probex5-4/src"/>
+	<classpathentry kind="src" path="probex5-5/src"/>
+	<classpathentry kind="src" path="probex5-6/src"/>
+	<classpathentry kind="src" path="probex5-7/src"/>
+	<classpathentry kind="src" path="probex6-1/src"/>
+	<classpathentry kind="src" path="probex6-2/src"/>
+	<classpathentry kind="src" path="probex6-3/src"/>
+	<classpathentry kind="src" path="probex6-4/src"/>
+	<classpathentry kind="src" path="probex6-5/src"/>
+	<classpathentry kind="src" path="probex7-1/src"/>
+	<classpathentry kind="src" path="probex7-2/src"/>
+	<classpathentry kind="src" path="wrapping/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="class1/bin"/>
+</classpath>

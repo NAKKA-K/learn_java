@@ -10,7 +10,8 @@ public class ClassSample01 {
 	public static String NEW_LINE_WIN="\r\n"; //CR+LF(windows)
 	public static String NEW_LINE_LIN="\n"; //LF(linux/unix)
 
-	public static String CURRENT_PROJ_DIR = "c:/_cui_program/java/class1/";
+	//public static String CURRENT_PROJ_DIR = "c:/_cui_program/java/learn_java/class1/";
+	public static String CURRENT_PROJ_DIR = "d:/program/java/learn_java/class1/";
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
